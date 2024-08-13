@@ -13,8 +13,10 @@
     - [Skills](#skills)
     - [Contact](#contact)
 5. [Styling](#styling)
-6. [Adding Images](#adding-images)
-7. [Deployment](#deployment)
+
+# 🌐 Live Demo
+
+👉🏻 [JOTHIPRASATH P A](https://jothiprasathportfolio.netlify.app/)
 
 ## Project Overview
 
